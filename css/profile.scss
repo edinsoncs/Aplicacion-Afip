@@ -1,0 +1,14 @@
+.fieldset {
+	border: none;
+	border-bottom: 1px solid #dedede!important;
+	.title {
+		color: #666666;
+	}
+	.info {
+		padding: 0.5em 0;
+		color: #A5A5A5;
+		.tipo, .name {
+			text-transform: lowercase;
+		}
+	}
+}

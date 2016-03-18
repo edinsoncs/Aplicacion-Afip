@@ -1,0 +1,12 @@
+.fieldset {
+  border: none;
+  border-bottom: 1px solid red !important;
+}
+
+.fieldset .info {
+  padding: 0.5em 0;
+}
+
+.fieldset .info .name {
+  text-transform: lowercase;
+}

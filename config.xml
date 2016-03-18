@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "ar.afip.argentina"
+        versionCode="13" 
+        version   = "1.0.1">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Afip Argentina</name>
+
+    <description>
+       Encuentra
+    </description>
+    
+    <icon src="icon.png" />
+
+    <author href="https://edinsoncs.com" email="edinsonlabs@hotmail.com">
+        Edinson
+    </author>
+
+    <preference name="permissions" value="none"/>
+
+    <access origin="*" browserOnly="true"/>
+    
+
+</widget>

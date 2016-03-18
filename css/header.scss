@@ -1,0 +1,28 @@
+.header {
+	background: $bgPrimary;
+	overflow: hidden;
+	line-height: 50px;
+	padding: 0 1em;
+	.header--Iz {
+		float: left;
+	}
+	.header--De {
+		float: right;
+		.Icon {
+			i {
+				color: $colorWhite;
+			}
+		}
+	}
+}
+.nav {
+	background: $bgSecondary;
+	line-height: 40px;
+	text-align: $centrado;
+	box-shadow: 0 4px 6px #9C9999;
+	.Ul {
+		.List {
+			font-size: 100%;
+		}
+	}
+}
